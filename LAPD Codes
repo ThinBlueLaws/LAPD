@@ -1,0 +1,43 @@
+LAPD CODES
+0-1    Unable Copy - Change Location
+10-2    Signal Good
+10-3    Stop Transmitting
+10-4    Acknowledgment (OK)
+10-5    Meal/Lunch
+10-6    Fight is Progress 
+10-7    Out of Service
+10-8    In Service
+10-9    Repeat
+
+10-10    Busy – Unless Urgent
+10-11    Traffic stop.
+10-12    Stand By (Stop)
+10-13    Shots fired
+10-14    Prowler Report
+10-15    Civil Disturbance
+10-16    Domestic Problem
+10-17    Meet Complainant
+10-18    Quickly
+10-19    Return to _
+
+10-20    Location
+10-21    Call ( ) by Phone
+10-22    Disregard
+10-23    Arrived at Scene
+10-24    Assignment Completed
+10-25    Report in Person (Meet)
+10-26    ETA
+10-27    (Drivers) License Information
+10-28    Vehicle Registration Information
+10-29    Check for Wanted
+__
+10-30    Unnecessary Use of Radio
+10-31    Crime in Progress
+10-32    Man with Gun
+10-33    Emergency
+10-34    Riot
+10-35    Major Crime Alert
+10-36    Correct Time
+10-37    (Investigate) Suspicious Vehicle
+10-38    Stopping Suspicious Vehicle
+10-39    Urgent - Use Light, Siren
